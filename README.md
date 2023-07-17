@@ -1,49 +1,22 @@
-# readme generator
-
+# AUTOMATIC README GENERATOR
 
 ## Description
 
-no thank you
+The Automatic README Generator is a command-line application built using Node.js and npm. This tool is designed to simplify the process of creating a README file for your projects. It utilizes the 'fs' module in Node.js to read and write files, enabling automatic generation of a well-structured README with minimal user input.
 
-## Table of Contents 
+## Features
 
-* [Installation](#installation)
+Generate a progessional README file for your projects, use an interactive CLI interface for customizing README content, automatically add essential sections such as (Description, Installation, Usage, and License), and save time and effort by avoiding manually creating a README.
 
-* [Usage](#usage)
+# Prerequisites
 
-* [Contributing](#contributing)
+Before running this app, make sure you have NodeJS installed, as well as the npm package manager.
 
-* [Tests](#tests)
+# Installation
 
-* [Questions](#questions)
+To install the application simply clone the repository, cd into the application, and run "npm install" to install the necessary dependencies.
 
-## Installation
+# Usage
 
-To install necessary dependencies, run the following command:
-
-```
-i dont know
-```
-
-## Usage
-
-a lot
-
-
-  
-## Contributing
-
-please dont contribute
-
-## Tests
-
-To run tests, run the following command:
-
-```
-npm test?
-```
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at mavarreteno@gmail.com. You can find more of my work at [mavarreteno](https://github.com/mavarreteno/).
-
+In order to use the application, go to the location of the app in your computer, and run "node index.js" in the terminal.
+Once you have done that, you will be asked a series of questions about your project such as title and description. Then, when all questions are answered, you will have your very own automatically generated README file.
