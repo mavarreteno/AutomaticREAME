@@ -2,7 +2,7 @@
 
 ## Description
 
-The Automatic README Generator is a command-line application built using Node.js and npm. This tool is designed to simplify the process of creating a README file for your projects. It utilizes the 'fs' module in Node.js to read and write files, enabling automatic generation of a well-structured README with minimal user input.
+The Automatic README Generator is a command-line application built using Node.js and npm. This tool is designed to simplify the process of creating a README file for your projects. It utilizes the 'fs' module in Node.js to read and write files, enabling automatic generation of a well-structured README with minimal user input. Here's a [link.](https://watch.screencastify.com/v/HNzQJzwKwXNZebi6TbPw)
 
 ## Features
 
